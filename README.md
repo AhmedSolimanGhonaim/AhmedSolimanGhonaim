@@ -17,8 +17,6 @@
   ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedSolimanGhonaim&show_icons=true&theme=radical)
   
   ![Ahmed's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSolimanGhonaim&layout=compact&theme=radical)
-  
-  ![Ahmed's Streak](https://github-readme-streak-stats.herokuapp.com/?user=AhmedSolimanGhonaim&theme=radical)
 
 </div>
 
@@ -43,6 +41,7 @@ Feel free to connect with me for exciting coding collaborations!
 ![JavaScript Badge](https://img.shields.io/badge/JavaScript-ES6-yellow)
 ![Node.js Badge](https://img.shields.io/badge/Node.js-JS-green)
 ![React Badge](https://img.shields.io/badge/React-JS-blue)
+![Python Badge](https://img.shields.io/badge/Python-3.x-blue)
 
 ---
 
