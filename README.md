@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Ahmed Soliman Ghonaim
+# Hi there  I'm Ahmed Soliman Ghonaim
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F72280&lines=Welcome+to+Ahmed's+Profile!;Passionate+Developer!;Web+Development+Enthusiast!)](https://git.io/typing-svg)
 
@@ -22,10 +22,7 @@
 
 ---
 
-## 🔥 Contribution Activity:
-![Ahmed's Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=AhmedSolimanGhonaim&theme=radical)
 
----
 
 ## 📫 How to Reach Me:
 - 📱 Phone: [+20 01010351108](tel:+201010351108)
