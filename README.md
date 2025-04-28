@@ -15,11 +15,11 @@ __
 <div align="center">
   
   
-  ![Ahmed's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSolimanGhonaim&layout=compact&theme=radical)
 
 </div>
 
 ---
+![Alt Text](https://sora.chatgpt.com/g/gen_01jsxynw8sfmbsjp4c3pdsnye2)
 
 
 
