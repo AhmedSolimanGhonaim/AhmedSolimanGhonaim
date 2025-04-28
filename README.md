@@ -1,4 +1,4 @@
-# 👋✨ Hi there, I'm Ahmed Soliman Ghonaim! 🚀
+# ✨ Hi there, I'm Ahmed Soliman Ghonaim! 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&color=F72280&lines=Welcome+to+Ahmed's+Cosmic+Profile!;Passionate+Developer!;Web+Development+Astronaut!)](https://git.io/typing-svg)
 
