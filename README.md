@@ -14,16 +14,6 @@
 ![Magical Night Sky](assets_task_01jsxynj15em09dr66570vchbh_1745835790_img_0.webp)
 ---
 
-## 📊 GitHub Statistics:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=AhmedSolimanGhonaim&show_icons=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=AhmedSolimanGhonaim&theme=radical" alt="GitHub Streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSolimanGhonaim&layout=compact&theme=radical" alt="Top Languages" />
-</div>
-
-
----
-
 ## 📫 How to Reach Me:
 - 📱 Phone: [+20 01010351108](tel:+201010351108)
 - 📧 Email: [ahmed.solimanth57@gmail.com](mailto:ahmed.solimanth57@gmail.com)
