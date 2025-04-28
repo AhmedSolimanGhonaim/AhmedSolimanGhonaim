@@ -11,7 +11,7 @@
 
 ---
 
-![Magical Night Sky](assets_task_01jsxynj15em09dr66570vchbh_1745835790_img_0.webp)
+![Magical Night Sky](ll.webp)
 ---
 
 ## 📫 How to Reach Me:
