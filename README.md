@@ -8,8 +8,6 @@
 - 🌐 I’m interested in **Web Development**.
 - 📚 Currently learning **Full-Stack Development**.
 - 🤝 Open to collaborating on **Front-end** and **Back-end** projects.
-![Alt Text](https://sora.chatgpt.com/g/gen_01jsxynw8sfmbsjp4c3pdsnye2)
----
 __
 ## 📊 GitHub Statistics:
 <div align="center">
@@ -19,7 +17,7 @@ __
 </div>
 
 ---
-![Alt Text](https://sora.chatgpt.com/g/gen_01jsxynw8sfmbsjp4c3pdsnye2)
+![Magical Night Sky](path-to-your-uploaded-animated-file.gif)---
 
 
 
