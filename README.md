@@ -10,11 +10,10 @@
 - 🤝 Open to collaborating on **Front-end** and **Back-end** projects.
 
 ---
-
+__
 ## 📊 GitHub Statistics:
 <div align="center">
   
-  ![Ahmed's GitHub Stats](https://github-readme-stats.vercel.app/api?username=AhmedSolimanGhonaim&show_icons=true&theme=radical)
   
   ![Ahmed's Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSolimanGhonaim&layout=compact&theme=radical)
 
