@@ -5,9 +5,9 @@
 ---
 
 ## 🌟 About Me:
-- 🌌 Exploring the universe of **Web Development**.
-- 🚀 Currently on a mission to master **Full-Stack Development**.
-- 🤝 Open to collaborating on **Front-end** and **Back-end** starships.
+you will see me spinning around in most of techs because i love it , and i will spin more and more getting better spinning more ..
+my repos are a mix between frontend and backend both are fun to me ,
+lets work together and let me learn more from you
 
 ---
 
