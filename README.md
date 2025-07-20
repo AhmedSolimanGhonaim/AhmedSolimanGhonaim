@@ -6,10 +6,10 @@
 
 ## 🌟 About Me
 
-I'm someone who enjoys spinning through the tech universe — sometimes frontend, sometimes backend, sometimes both 🚀
+I'm someone who enjoys spinning through the tech universe —  🚀
 
 You’ll find a mix of projects here: some complete, some experimental, all made with curiosity.  
-I don’t like limiting myself to one stack — if it looks cool, I’ll explore it.
+to be an actual software engineer not a coder 
 
 Let’s collaborate, build fun stuff, and learn from each other. I'm always up for new challenges!
 
