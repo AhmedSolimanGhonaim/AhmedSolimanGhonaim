@@ -6,7 +6,7 @@
 
 ## About Me
 
-I'm someone who enjoys spinning through the tech universe —  🚀
+I'm someone who enjoys spinning through the tech universe 
 
 You’ll find a mix of projects here: some complete, some experimental, all made with curiosity.  
 to be an actual software engineer not a coder 
