@@ -4,7 +4,7 @@
 
 ---
 
-## 🌟 About Me
+## About Me
 
 I'm someone who enjoys spinning through the tech universe —  🚀
 
@@ -38,13 +38,7 @@ Whether it's a project, an idea, or just tech talk — I'm here 👋
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
-- 🩸 [**Cyclic Blood Bank System**](https://github.com/AhmedSolimanGhonaim/cyclic-blood)  
+-  [**Cyclic Blood Bank System**](https://github.com/AhmedSolimanGhonaim/cyclic-blood)  
   A real-world Django backend app handling donations, hospital requests, matching logic, and expiration tracking with **Celery + Redis**.
-
-- 💳 **ShaePay** *(Work in Progress)*  
-  A multi-tenant SaaS platform for secure digital payments. Built with Django + React, focused on modern billing systems.
-
----
-
